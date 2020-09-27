@@ -1,5 +1,7 @@
 # aps cli
 
+[статья пример](https://trstringer.com/easy-and-nice-python-cli/)
+
 ## установка
 
 ```
