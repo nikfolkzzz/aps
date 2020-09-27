@@ -1,0 +1,3 @@
+[console_scripts]
+aps = aps.__main__:main
+
