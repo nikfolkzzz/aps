@@ -11,7 +11,7 @@ pip install -e .
 
 ## удаление
 
-????
+pip uninstall aps
 
 ## список команд:
 
